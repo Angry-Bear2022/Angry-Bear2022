@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Angry-Bear2022
 - 👀 I’m interested in Java-Script
-- 🌱 I’m currently learning Java-Script
+- 🌱 I’m currently using AI
 - 💞️ I’m looking to collaborate on Programming
 - 📫 How to reach me mr.costas.kk@gmail.com
 
